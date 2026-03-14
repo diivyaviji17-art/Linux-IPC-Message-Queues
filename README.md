@@ -83,10 +83,7 @@ int main()
 	return 0;
 }
 ```
-## OUTPUT
-
-
-
-
+## OUTPUT:
+"C:\Users\acer\OneDrive\Pictures\Screenshot 2026-03-14 130829.png"
 # RESULT:
 The programs are executed successfully.
