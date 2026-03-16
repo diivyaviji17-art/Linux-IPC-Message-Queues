@@ -84,6 +84,9 @@ int main()
 }
 ```
 ## OUTPUT:
-"C:\Users\acer\OneDrive\Pictures\Screenshot 2026-03-14 130829.png"
+
+![Output](ex-4.png)
+
+
 # RESULT:
 The programs are executed successfully.
